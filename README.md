@@ -27,4 +27,4 @@ Methods used to produce the outputs used in this dashboard are described in: [Ex
 
 # Software
 
-This html dashboard was produced using Rmarkdown in RStudio. The Rmarkdown file utilises the rmdformats package for the dashboard’s visual structure.
+This html dashboard was produced using Quarto in RStudio.
